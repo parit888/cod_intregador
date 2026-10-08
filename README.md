@@ -1,1 +1,1 @@
-# cod_intregador
+# cod_intrgador
